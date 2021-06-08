@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import ImageDowload from '../../Assets/download.png'
+import ImageDowload from '../../assets/download.png'
 
 export const ImageContainer = styled.div`
   width: 114px;

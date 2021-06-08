@@ -1,6 +1,6 @@
 import { screen, render, fireEvent } from '@testing-library/react'
 import '@testing-library/jest-dom'
-import LogoEmpty from '../LogoEmpty/LogoEmpty'
+import LogoEmpty from './LogoEmpty'
 
 const handleAddFile = jest.fn()
 
