@@ -33,7 +33,7 @@ export default function Uploader() {
   }
 
   useEffect(() => {
-    cutedImage && console.log(`Base64 of cuted image${cutedImage}`)
+    cutedImage && console.log(`Base64 of cuted image in parent component${cutedImage}`)
   }, [cutedImage])
 
   return (
